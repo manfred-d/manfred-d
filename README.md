@@ -1,9 +1,9 @@
-                                         👋 Hi, I’m #Manfred
+                                         👋 Hi, I’m Manfred
 # 👀 About Me
 
 I’m interested in web design and development
 
-I’m looking to collaborate on any full stack dev with laravel and codeigniter
+I’m looking to collaborate on any full stack dev with laravel and codeIgniter
 
 # 💫Tech Stack
 ![image](https://user-images.githubusercontent.com/57096498/195101738-099da1d7-2651-432c-925e-cdcc24b39e21.png)
