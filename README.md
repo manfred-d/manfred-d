@@ -12,6 +12,28 @@ I’m looking to collaborate on any full stack dev with laravel and codeIgniter
 ![image](https://user-images.githubusercontent.com/57096498/195102098-37d3b5af-b896-451e-86a3-cf746f4267c0.png)
 ![image](https://user-images.githubusercontent.com/57096498/195102140-daa92701-d699-438a-bc7c-5792b699079f.png)
 
+<p align="left">
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"/>
+<img src="https://img.shields.io/badge/-CSS-black?style=flat-square&logo=CSS&logoColor=white"/>
+<img src="https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python"/>
+<img src="https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django"/>
+<img src="https://img.shields.io/badge/-Dart-black?style=flat-square&logo=Dart" />
+<img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP" />
+<img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter" />
+<img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+<img src="https://img.shields.io/badge/-Dialogflow-black?style=flat-square&logo=Dialogflow"/>
+<img src="https://img.shields.io/badge/-Tensorflow-black?style=flat-square&logo=Tensorflow"/>
+<img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux"/>
+<img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub"/>
+<img src="https://img.shields.io/badge/-Visual Studio Code-black?style=flat-square&logo=Visual Studio Code"/>
+<img src="https://img.shields.io/badge/-Microsoft Azure-black?style=flat-square&logo=Microsoft Azure"/>
+<img src="https://img.shields.io/badge/-Docker-black?style=flat-square&logo=Docker"/>
+<img src="https://img.shields.io/badge/-QGIS-black?style=flat-square&logo=QGIS"/>
+<img src="https://img.shields.io/badge/-GeoDjango-black?style=flat-square&logo=Django"/>
+<img src="https://img.shields.io/badge/-Figma-black?style=flat-square&logo=Figma"/>
+<img src="https://img.shields.io/badge/-IBM-black?style=flat-square&logo=IBM Cloud"/>
+</p>
+
 
 # 🌱 Social:
 
