@@ -19,6 +19,7 @@ I’m looking to collaborate on any full stack dev with laravel and codeIgniter
 <img src="https://img.shields.io/badge/-PHP-black?style=flat-square&logo=PHP" />
 <img src="https://img.shields.io/badge/-Flutter-black?style=flat-square&logo=Flutter" />
 <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql"/>
+ <img src="https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=MongoDb"/>
 <img src="https://img.shields.io/badge/-Linux-black?style=flat-square&logo=Linux"/>
 <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=GitHub"/>
 <img src="https://img.shields.io/badge/-Visual Studio Code-black?style=flat-square&logo=Visual Studio Code"/>
