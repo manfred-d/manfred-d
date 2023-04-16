@@ -42,3 +42,6 @@ Check my portfolio Here
 
 # Streak
 [![GitHub Streak](https://streak-stats.demolab.com?user=manfred-d&theme=dark&hide_border=true&border_radius=30&mode=weekly)](https://git.io/streak-stats)
+
+# Area of Specialty
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=manfred-d&layout=compact&theme=tokyonight)](https://github.com/manfred-d/github-readme-stats)
