@@ -40,4 +40,5 @@ Check my portfolio Here
 
       manfredkyp@gmail.com
 
-
+# Streak
+[![GitHub Streak](https://streak-stats.demolab.com?user=manfred-d&theme=dark&hide_border=true&border_radius=30&mode=weekly)](https://git.io/streak-stats)
